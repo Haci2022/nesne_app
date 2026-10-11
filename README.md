@@ -1,5 +1,4 @@
-[21:44, 10.10.2026] +90 537 293 22 29: Örnek yarın kepçe işi var, adam diyor falan işi kesin yaparım, ama başka yerde daha önemli Bir işte çalıştığını bilmiyor, o iş de aksamis olur gibi gibi...
-[21:49, 10.10.2026] +90 537 293 22 29: # 👁️ YOLOv8 Nesne Tespiti ve Görüntü İşleme Projesi
+ # 👁️ YOLOv8 Nesne Tespiti ve Görüntü İşleme Projesi
 
 Bu proje, *YOLOv8* yapay zeka modelini kullanarak görüntü işleme, nesne tespiti ve ilgili uygulama akışlarını gerçekleştirmek amacıyla geliştirilmiştir.
 
